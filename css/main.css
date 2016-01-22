@@ -1,0 +1,42 @@
+.wrapper {
+  width: 100%;
+}
+.container-fluid {
+  background: silver;
+  max-width: 1200px;
+  padding: 0 !important;
+}
+.bkgd-tile {
+  background: blue;
+  height: 209px;
+  margin-bottom: 15px;
+  color: white;
+  text-align: center;
+  font-size: 35px;
+}
+.tile-signup {
+  color: #ffffff;
+  background-color: rgba(13, 31, 43, 0.8);
+  margin-right: 0;
+}
+
+.tile-img {
+  margin-bottom: 15px;
+}
+.tile--lg {
+  background-color: orange;
+  height: 433px;
+}
+.tile-signup__button {
+  background: transparent;
+  border-radius: 5px;
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  width: 90%;
+}
+.fa {
+  vertical-align: middle;
+}
